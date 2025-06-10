@@ -1,12 +1,12 @@
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Mlx',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Admin-Malvx",
+  botOwner: 'Malvx', // Your name
+  ownerNumber: '5511982045924', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "Este é um bot para gerenciar comandos de grupo e automatizar tarefas.",
   version: "2.0.2",
 };
 
